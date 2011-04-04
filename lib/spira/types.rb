@@ -22,7 +22,7 @@ module Spira
     require 'spira/types/uri'
     require 'spira/types/decimal'
     require 'spira/types/native'
-
+    require 'spira/types/list'
 
   end
 end
